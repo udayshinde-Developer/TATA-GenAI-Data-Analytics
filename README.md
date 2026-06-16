@@ -1,5 +1,6 @@
 # TATA-GenAI-Data-Analytics #
 📊 GenAI-Powered Credit Risk Analytics – Tata Job Simulation
+
 🔍 Overview
 
 Completed a job simulation by Tata Consultancy Services (TCS) focused on solving real-world credit risk and collections challenges for a fictional fintech company, Geldium, using Generative AI tools like ChatGPT and Copilot alongside data analytics techniques.
